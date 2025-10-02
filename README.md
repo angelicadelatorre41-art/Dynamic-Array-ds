@@ -1,1 +1,1 @@
-# Dynamic-Array-ds
+# Dynamic-Array-ds The function maintains n sequences and updates them based on the queries, using lastAnswer to determine the correct sequence. It appends values for type 1 queries and retrieves values for type 2 queries, returning all lastAnswer results at the end.
